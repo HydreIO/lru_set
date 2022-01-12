@@ -1,6 +1,6 @@
 {
 	"name": "@hydre/lru_set",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "A basic lru set implementation",
 	"main": "index.js",
 	"type": "module",
