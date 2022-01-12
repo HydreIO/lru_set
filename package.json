@@ -1,0 +1,28 @@
+{
+	"name": "@hydre/lru_set",
+	"version": "0.1.0",
+	"description": "A basic lru set implementation",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "node test/index.test.js",
+		"postversion": "git push --follow-tags"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/HydreIO/lru_set.git"
+	},
+	"keywords": [
+		"lru",
+		"set"
+	],
+	"author": "Hydre",
+	"license": "UNLICENSE",
+	"homepage": "https://hydre.io",
+	"publishConfig": {
+		"access": "public"
+	},
+	"bugs": {
+		"url": "https://github.com/HydreIO/lru_set/issues"
+	}
+}
